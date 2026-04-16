@@ -3,7 +3,6 @@
 ## Projects
 
 ### 1. A+ Lab
-Short description of what it does and what you learned.
 
 🔗 https://steve-g-git.github.io/A-Lab
 

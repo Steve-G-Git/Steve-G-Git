@@ -9,7 +9,7 @@ Diagnosed and resolved a firmware-level failure in a Klipper-based 3D printer by
 
 ---
 
-### 2. [Your Second Project Name]
+### 2. A+ Lab
 Short description of what it does and what you learned.
 
 🔗 https://github.com/Steve-G-Git/A-Lab

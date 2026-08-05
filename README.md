@@ -55,7 +55,7 @@ These projects reflect a focus on practical, hands-on problem solving and a stru
 
 I come from a precision manufacturing background (US Synthetic — polycrystalline diamond compacts for oil and gas drill bits) with hands-on experience in Lean manufacturing and the Toyota Production System. I approach IT troubleshooting the same way I approached process improvement: isolate variables, test assumptions, document results, refine until the issue is resolved and repeatable.
 
-Currently studying for CompTIA A+. CompTIA Network+ is next.
+Currently preparing for the CompTIA Network+ certification through coursework, hands-on networking labs, and practical projects.
 
 ---
 

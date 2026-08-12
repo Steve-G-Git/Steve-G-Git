@@ -21,11 +21,11 @@ An interactive React application that presents the OSI model as a connected syst
 
 [Source repository](https://github.com/Steve-G-Git/osi-explorer)
 
-### [IT Support Portfolio and A-Lab](https://steve-g-git.github.io/A-Lab/)
+### [IT Support Portfolio](https://steve-g-git.github.io/A-Lab/)
 
 A portfolio site containing two browser-based JavaScript tools:
 
-- **CompTIA A+ Lab Terminal:** A command-driven study tool with quizzes and structured technical content
+- **IT Support Lab Terminal:** A command-driven study tool covering hardware, networking, operating systems, and security fundamentals
 - **Network Troubleshooter:** Scenario-based diagnostics covering APIPA, DHCP, WAN connectivity, broadcast storms, and MAC filtering
 
 [Source repository](https://github.com/Steve-G-Git/A-Lab)

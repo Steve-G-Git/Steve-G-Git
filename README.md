@@ -1,6 +1,6 @@
 # Steve Garnet
 
-Entry-level IT support professional focused on networking, system troubleshooting, technical documentation, and practical problem-solving.
+Entry-level IT support candidate focused on networking, system troubleshooting, technical documentation, and practical problem-solving.
 
 I bring more than 20 years of manufacturing and operations experience into IT, including team leadership, equipment troubleshooting, standardized work, training, root-cause analysis, and continuous improvement. I approach technical problems methodically: isolate variables, test assumptions, document findings, and build repeatable solutions.
 
